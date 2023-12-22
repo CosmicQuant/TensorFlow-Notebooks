@@ -5,3 +5,6 @@ os
 re
 shutil
 string
+tensorflow-hub
+tensorflow-datasets
+keras-tuner
